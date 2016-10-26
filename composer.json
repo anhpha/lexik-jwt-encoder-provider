@@ -11,5 +11,11 @@
             "name": "Anh Pha",
             "email": "vvap2004@yahoo.com"
         }
-    ]
+    ],
+    "autoload" : {
+        "psr-0": {
+            "anhpha": "/",
+            "Lexik": "Anhpha/"
+        }
+    }
 }
