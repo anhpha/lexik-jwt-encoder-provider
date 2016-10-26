@@ -2,8 +2,8 @@
 
 namespace Anhpha\Provider;
 
-use Anhpha\Lexik\JWTEncoder;
-use Anhpha\Lexik\OpenSSLKeyLoader;
+use Lexik\JWTEncoder;
+use Lexik\OpenSSLKeyLoader;
 use Pimple\Container;
 use Pimple\ServiceProviderInterface;
 use Silex\Application;

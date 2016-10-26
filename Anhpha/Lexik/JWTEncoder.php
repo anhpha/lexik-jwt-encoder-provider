@@ -2,7 +2,7 @@
 
 namespace Lexik;
 
-use Mhl\Lexik\OpenSSLKeyLoader;
+use Lexik\OpenSSLKeyLoader;
 use Namshi\JOSE\SimpleJWS;
 use Symfony\Component\Validator\Exception\InvalidArgumentException;
 
