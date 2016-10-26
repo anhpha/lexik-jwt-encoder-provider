@@ -1,0 +1,15 @@
+{
+    "name": "anhpha/lexik-jwt-service-provider",
+    "description": "This is a provider for silex 2.0 using lexik jwt authentication provider class to create a encoder",
+    "type": "library",
+    "require": {
+        "namshi/jose": "7.2.2",
+        "silex/silex": "2.0"
+    },
+    "authors": [
+        {
+            "name": "Anh Pha",
+            "email": "vvap2004@yahoo.com"
+        }
+    ]
+}

@@ -1,0 +1,3 @@
+Generate private key: openssl genrsa -passout pass:jinn-dev -out keys/private.pem -aes256 4096
+Public: openssl rsa -pubout -in keys/private.pem -passin pass:jinn-dev -out keys/public.pem
+
