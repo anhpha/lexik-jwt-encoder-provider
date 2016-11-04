@@ -4,7 +4,7 @@ namespace Lexik;
 
 use Lexik\OpenSSLKeyLoader;
 use Namshi\JOSE\SimpleJWS;
-use Symfony\Component\Validator\Exception\InvalidArgumentException;
+use InvalidArgumentException;
 
 /**
  * JWTEncoder
